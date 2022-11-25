@@ -1,5 +1,5 @@
 -<h1 align="center">Hi, I'm Mohamed Elgohary 👋</h1>
-- 👀 I’m interested and Passionate in Programming {Android}  
+- 👀 I’m interested and Passionate about Programming {Android}  
 - 🌱 I’m an Android Developer
 - 💞️ I’m looking to collaborate on Google 
 <p align="center">
