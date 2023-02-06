@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elgohary</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Food Delivey**
+- 🔭 I’m currently working on **The Chance**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Android Development**
 
 - 👯 I’m looking to collaborate on **Google**
 
