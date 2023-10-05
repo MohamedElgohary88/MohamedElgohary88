@@ -16,14 +16,11 @@
 
 - 📄 Know about my experiences [[[https://drive.google.com/file/d/1crkYnGeqOKk55x_Ax-qg7-8J9OtNL1eR/view?usp=share_link](https://docs.google.com/document/d/1bN6s5B_MG1gfkVq5RQNdzH9QZTc8phxGpv7kBEo2X0I/edit?usp=sharing)]]
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed elgohary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elgohary" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohamed elgohary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohamed elgohary" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohamed elgohary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamed elgohary" height="30" width="40" /></a>
-</p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elgohary-9b88aa21a/) 
+
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElgohary88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
