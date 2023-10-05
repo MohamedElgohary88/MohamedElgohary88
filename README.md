@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elgohary-9b88aa21a/) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elgohary8) 
 
 
 # 📊 GitHub Stats:
