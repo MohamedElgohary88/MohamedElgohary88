@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mohamed.abdelazim.elgohary@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1crkYnGeqOKk55x_Ax-qg7-8J9OtNL1eR/view?usp=share_link](https://docs.google.com/document/d/1bN6s5B_MG1gfkVq5RQNdzH9QZTc8phxGpv7kBEo2X0I/edit?usp=sharing)]]
+- 📄 Know about my experiences [https://www.canva.com/design/DAFweHjHgvo/U4kr7aIQ5jIbWmEg-Oj-2A/edit?utm_content=DAFweHjHgvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
