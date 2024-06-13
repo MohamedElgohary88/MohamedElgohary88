@@ -13,14 +13,24 @@
 - My Portfolio **https://mohamed-elgohary.onrender.com**
 
 - 📫 How to reach me **mohamed.abdelazim.elgohary@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFweHjHgvo/U4kr7aIQ5jIbWmEg-Oj-2A/edit?utm_content=DAFweHjHgvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elgohary8) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elgohary8)
 
+<h2 align="left">My experiences:</h2>
+<p align="left">
+  
+[![resume](https://github.com/nomi811/clickable-icons-to-readme/assets/87489620/a46f5ac0-c37d-46ad-97e3-d1991b2c90ca)
+](https://www.canva.com/design/DAFweHjHgvo/U4kr7aIQ5jIbWmEg-Oj-2A/edit?utm_content=DAFweHjHgvo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+<h1 align="left">Problem Solving</h1>
+<p align="left">
+  
+  [![LeetCode_Logo_2](https://github.com/nomi811/clickable-icons-to-readme/assets/87489620/21894d4d-10bf-46d5-8f8b-995b03c1a789)](https://leetcode.com/u/mohamedelgohary88/)
+
+  [![codewars_button](https://github.com/nomi811/clickable-icons-to-readme/assets/87489620/99ad9606-2f23-40a4-be17-ff7282a1828f)](https://www.linkedin.com/in/mohamed-elgohary8)
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElgohary88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
