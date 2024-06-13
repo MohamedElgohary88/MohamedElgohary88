@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Android development projects that utilize my skills in Kotlin and experience in developing collaborative solutions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohamedElgohary88](https://github.com/MohamedElgohary88)
-
 - 💬 Ask me about **Kotlin , Android Development**
 
 - My Portfolio **https://mohamed-elgohary.onrender.com**
