@@ -30,7 +30,6 @@
   
   [![LeetCode_Logo_2](https://github.com/nomi811/clickable-icons-to-readme/assets/87489620/21894d4d-10bf-46d5-8f8b-995b03c1a789)](https://leetcode.com/u/mohamedelgohary88/)
 
-  [![codewars_button](https://github.com/nomi811/clickable-icons-to-readme/assets/87489620/99ad9606-2f23-40a4-be17-ff7282a1828f)](https://www.linkedin.com/in/mohamed-elgohary8)
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElgohary88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
