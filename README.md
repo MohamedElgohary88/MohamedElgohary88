@@ -31,10 +31,11 @@
   [![LeetCode_Logo_2](https://github.com/nomi811/clickable-icons-to-readme/assets/87489620/21894d4d-10bf-46d5-8f8b-995b03c1a789)](https://leetcode.com/u/mohamedelgohary88/)
 
 
+
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElgohary88&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgohary88&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElgohary88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedElgohary88&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgohary88&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElgohary88&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
