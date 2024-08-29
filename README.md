@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Elgohary</h1>
-<h3 align="center">A Passionate Android developer from Egypt</h3>
+<h3 align="center">A Passionate Mobile developer from Egypt</h3>
 
 - 🔭 I’m currently **Open to Work**
 
