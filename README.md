@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Elgohary</h1>
-<h3 align="center">A Passionate Mobile developer from Egypt</h3>
+<h3 align="center">A Passionate Software Engineer / Mobile developer</h3>
 
 - 🔭 I’m currently **Open to Work**
 
-- 🌱 I’m currently learning **KMP**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Android development projects that utilize my skills in Kotlin and experience in developing collaborative solutions**
+- 👯 I’m looking to collaborate on **Mobile development projects that utilize my skills in Kotlin and experience in developing collaborative solutions**
 
-- 💬 Ask me about **Kotlin , Android Development**
+- 💬 Ask me about **Kotlin, Dart, Android Development and Kotlin Multi-platform**
 
 - My Portfolio **https://mohamed-elgohary.onrender.com**
 
