@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently **Open to Work**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 👯 I’m looking to collaborate on **Mobile development projects that utilize my skills in Kotlin and experience in developing collaborative solutions**
 
-- 💬 Ask me about **Kotlin, Dart, Android Development and Kotlin Multi-platform**
+- 💬 Ask me about **Kotlin, Dart, Android Development, and Kotlin Multi-platform**
 
 - My Portfolio **https://mohamed-elgohary.onrender.com**
 
